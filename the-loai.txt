@@ -1,0 +1,90 @@
+0
+Ton giao
+Xuat xu; Nguoi sang lap; Nguoi ton tho; Lich su; 
+2
+The thao
+Lich su; Cach choi; 
+3
+Mon an
+Nguyen lieu; Cach lam; 
+4
+Dat nuoc
+Thu do; Tien te; Dien tich; Dan so;
+6
+Dong vat
+Loai; Dac diem; 
+10
+Cay coi
+Loai; Dac diem; 
+11
+Truong dai hoc
+Dia diem; Lich su; Cuu hoc sinh noi bat; 
+12
+Nhac cu
+Cach choi; Dac diem; 
+15
+Thuc uong
+Thanh phan; Ich loi;
+20
+dien thoai
+hang san xuat; nam san xuat;gia tien;
+32
+nhan vat cong nghe
+Ngay sinh;que quan;cong ty sang lap;cuoc doi;
+33
+song ngoi
+thuoc quoc gia;chieu dai;dac diem;
+34
+cong ty
+tong giam doc;gia tri cong ty;lich su phat trien;
+35
+dai duong
+dien tich;tiep giap;dac diem;
+31
+dien thoai
+xuat hien nam;hang san xuat;chi tiet cau hinh;
+30
+xe may
+gia;hang san xuat;chi tiet;
+36
+may bay
+gia;hang san xuat;chi tiet;
+37
+tivi
+gia;hang san xuat;nam san xuat;chi tiet;
+38
+dia diem du lich
+vi tri;quoc gia;dich vu;dac diem;
+22
+tro choi dan gian
+cach choi; luat choi;
+54
+dan toc
+dan so;thoi diem thong ke; phan tram;
+19
+Thuc Pham
+Tinh;Gia 1kg;
+39
+Xe hoi
+hang xe;dac diem;gia;
+21
+xe may
+hang xe;nam san xuat; gia;
+24
+truyen
+tac gia;the loai;tinh trang;
+23
+nguoi noi tieng
+nam sinh;linh vuc;thanh tuu;
+53
+Nokia
+Loai man hinh;Nam phat hanh;Cong nghe
+51
+Tac pham van xuoi
+Tac gia;Tom tat
+52
+Thuoc bo
+Thanh phan;Cong dung
+55
+Vitamin
+Kien thuc ve vitamin
